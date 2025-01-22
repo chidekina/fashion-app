@@ -1,0 +1,32 @@
+[
+ 	{
+		"id": 1,
+		"name": "H&M logo",
+        "path": "/assets/brands/H&M.png"
+	},
+	{
+		"id": 2,
+		"name": "OBEY logo",
+        "path": "/assets/brands/obey.png"
+	},
+	{
+		"id": 3,
+		"name": "shopify logo",
+        "path": "/assets/brands/shopify.png"
+	},
+	{
+		"id": 4,
+		"name": "lacoste logo",
+        "path": "/assets/brands/lacoste.png"
+	},
+	{
+		"id": 3,
+		"name": "levis logo",
+        "path": "/assets/brands/levis.png"
+	},
+	{
+		"id": 3,
+		"name": "amazon logo",
+        "path": "/assets/brands/amazon.png"
+	}	
+]
