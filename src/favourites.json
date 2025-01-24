@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Foto de duas mulheres com oculos escuro",
+        "description": "Trending on instagram",
+        "path": "/assets/Favourites/Favourite-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Foto de uma mulher com oculos escuro rosa",
+        "description": "All Under $40",
+        "path": "/assets/Favourites/Favourite-2.png"
+    }
+]

@@ -20,12 +20,12 @@
         "path": "/assets/brands/lacoste.png"
 	},
 	{
-		"id": 3,
+		"id": 5,
 		"name": "levis logo",
         "path": "/assets/brands/levis.png"
 	},
 	{
-		"id": 3,
+		"id": 6,
 		"name": "amazon logo",
         "path": "/assets/brands/amazon.png"
 	}	

@@ -3,7 +3,7 @@ const Brands = ({ brands }) => {
         <div className="bg-primary w-full h-16 flex px-36 py-24 justify-evenly">
             <ul className="flex gap-16 items-center">
             {brands.map(logo =>(
-                <li>
+                <li key={logo.id}>
                 <img className="h-12" src={logo.path} alt={logo.name} key={logo.id}/>
                 </li>
             ))}

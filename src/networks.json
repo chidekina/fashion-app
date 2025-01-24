@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Facebook logo",
+        "path": "/assets/SocialNetLogos/Facebook Logo.png"
+    },
+    {
+        "id": 2,
+        "name": "Instagram logo",
+        "path": "/assets/SocialNetLogos/Instagram Logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Twitter logo",
+        "path": "/assets/SocialNetLogos/Twitter Logo.png"
+    },
+    {
+        "id": 4,
+        "name": "LinkedIn logo",
+        "path": "/assets/SocialNetLogos/LinkedIn Logo.png"
+    }
+]

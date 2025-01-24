@@ -1,6 +1,6 @@
 const Header = ({ list }) => {
     return (
-        <div className="flex justify-between">
+        <header className="flex justify-between">
             <div className="flex gap-3 items-center">
                 <img className="max-h-8" src="/assets/fashion-logo.png" alt="" />
                 <h1 className="text-4xl font-black">FASHION</h1>
@@ -17,7 +17,7 @@ const Header = ({ list }) => {
                     <p className="text-white text-lg">SIGN UP</p>
                 </a>
             </div>
-        </div>
+        </header>
     );
 }
 

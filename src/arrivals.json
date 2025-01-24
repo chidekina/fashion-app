@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "product": "Hoodies & Sweetshirt",
+        "path": "/assets/arrivals/arrival-1.png"
+    },
+    {
+        "id": 2,
+        "product": "Coats & Parkas",
+        "path": "/assets/arrivals/arrival-2.png"
+    },
+    {
+        "id": 3,
+        "product": "Tees & T-Shirt",
+        "path": "/assets/arrivals/arrival-3.png"
+    }
+]
