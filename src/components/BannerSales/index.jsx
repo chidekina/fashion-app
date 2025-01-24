@@ -11,7 +11,7 @@ const BannerSales = () => {
                 <img src="/assets/star.png" className="absolute w-12 z-10 mt-[-200px] ml-[660px]" />
             </div>
             <div className="flex flex-col w-[500px] justify-center items-start">
-                <h1 className="font-black flex-wrap text-[90px] z-10">
+                <h1 className="font-black flex-wrap z-10 text-[90px]">
                     PAYDAY SALE NOW
                 </h1>
                 <p className="font-medium text-[26px] mb-12 z-10">

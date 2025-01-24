@@ -1,3 +1,4 @@
+import './GlobalStyles.css'
 import Banner from "./components/Banner"
 import Brands from "./components/Brands"
 import Header from "./components/Header"

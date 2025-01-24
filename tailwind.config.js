@@ -8,10 +8,9 @@ export default {
     extend: {
       colors: {
         primary: 'var(--primary-color)',
-        secondary: 'var(--secondary-color)'
-      }
+        secondary: 'var(--secondary-color)',
+      },
     },
   },
   plugins: [],
 }
-
