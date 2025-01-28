@@ -3,7 +3,7 @@ const Links = (data) => {
         <>
 
             {data.list.map(item => (
-                <div className="flex flex-col gap-3 text-[20px]">
+                <div className="flex flex-col gap-3 text-xl max-md:text-sm">
                     {item.map((subItem, subIndex) => (
                         <ul className=" first:text-[#D9D9D9]">
                             <li key={subIndex}>
