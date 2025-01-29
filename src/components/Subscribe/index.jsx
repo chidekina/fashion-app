@@ -2,7 +2,7 @@ const Subscribe = () => {
     return (
         <div className="bg-[#E6C744] flex flex-col justify-center text-center items-center text-white py-24 max-md:bg-white max-md:text-[#E6C744]">
             <div className="w-1/2 max-md:w-full">
-            <h1 className="font-black text-[46px]">
+            <h1 className="font-black text-5xl">
             JOIN SHOPPING COMMUNITY TO GET MONTHLY PROMO
             </h1>
             <p className="">Type your email down below and be young wild generation</p>

@@ -1,6 +1,6 @@
 const AppContainer = () => {
     return (
-        <div className="mt-32 flex px-28 justify-between max-md:px-2 max-md:mt-12 max-md:bg-[#E6C744]">
+        <div className="mt-32 flex px-16 justify-between max-md:px-2 max-md:mt-12 max-md:bg-[#E6C744]">
           <div className=" w-96 flex flex-col justify-center gap-6 max-md:gap-3">
             <h2 className="font-black text-4xl max-md:text-2xl max-md:text-center">
             DOWNLOAD APP &
